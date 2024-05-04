@@ -15,21 +15,10 @@ export default function Home() {
 
 	const links = [
 		{
-			title: 'Next.js',
+			title: 'Defillama',
 			description:
-				'Seamlessly integrate your decentralized application with Next.js, a popular React-based framework.',
-			href: 'https://nextjs.org',
-		},
-		{
-			title: 'RainbowKit',
-			description: 'A powerful and easy-to-use wallet Ethereum-based dApps.',
-			href: 'https://www.rainbowkit.com',
-		},
-		{
-			title: 'WAGMI',
-			description:
-				'wagmi is a collection of React Hooks containing everything you need to start working with Ethereum.',
-			href: 'https://wagmi.sh',
+				'Using Defillama API for testing only',
+			href: `${origin}/defillama`,
 		},
 		{
 			title: 'Examples',
